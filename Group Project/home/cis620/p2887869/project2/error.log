@@ -1,0 +1,75 @@
+2024/11/23 22:26:09 [error] 3449#0: *1 open() "/home/cis620/p2887869/project2/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:1403", referrer: "http://localhost:1403/"
+2024/11/23 22:26:09 [error] 3449#0: *1 open() "/home/cis620/p2887869/project2/html/404.html" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:1403", referrer: "http://localhost:1403/"
+2024/11/23 22:26:15 [error] 3449#0: *1 open() "/home/cis620/p2887869/project2/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:26:15 [error] 3449#0: *1 open() "/home/cis620/p2887869/project2/html/404.html" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:41:40 [error] 3449#0: *3 open() "/home/cis620/p2887869/project2/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:41:40 [error] 3449#0: *3 open() "/home/cis620/p2887869/project2/html/404.html" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:48:01 [error] 3449#0: *7 open() "/home/cis620/p2887869/project2/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:48:01 [error] 3449#0: *7 open() "/home/cis620/p2887869/project2/html/404.html" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 22:48:56 [notice] 3460#0: signal process started
+2024/11/23 22:49:02 [emerg] 3464#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:49:02 [emerg] 3464#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:49:02 [emerg] 3464#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:49:02 [emerg] 3464#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:49:02 [emerg] 3464#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:49:02 [emerg] 3464#0: still could not bind()
+2024/11/23 22:49:09 [notice] 3467#0: signal process started
+2024/11/23 22:51:07 [notice] 3475#0: signal process started
+2024/11/23 22:54:19 [error] 3403#0: *1 open() "/home/cis620/p2887869/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/23 22:54:26 [error] 3403#0: *1 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:04 [emerg] 3485#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:56:04 [emerg] 3485#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:56:04 [emerg] 3485#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:56:04 [emerg] 3485#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:56:04 [emerg] 3485#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 22:56:04 [emerg] 3485#0: still could not bind()
+2024/11/23 22:56:10 [notice] 3488#0: signal process started
+2024/11/23 22:56:26 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:27 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:28 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:29 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:29 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:29 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:29 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 22:56:57 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 22:57:01 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 22:57:02 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 22:57:02 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 22:57:02 [error] 3403#0: *3 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 22:58:36 [notice] 3496#0: signal process started
+2024/11/23 23:02:46 [notice] 3501#0: signal process started
+2024/11/23 23:02:46 [error] 3501#0: open() "/var/run/nginx.pid" failed (2: No such file or directory)
+2024/11/23 23:03:16 [error] 3506#0: *1 open() "/home/cis620/p2887869/project2/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 23:03:16 [error] 3506#0: *1 open() "/home/cis620/p2887869/project2/html/404.html" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 23:08:48 [emerg] 3521#0: unknown directive "Server" in /home/cis620/p2887869/project2/nginx.conf:35
+2024/11/23 23:09:53 [emerg] 3525#0: unknown directive "Server" in /home/cis620/p2887869/project2/nginx.conf:35
+2024/11/23 23:11:39 [emerg] 3529#0: unknown directive "Server" in /home/cis620/p2887869/project2/nginx.conf:35
+2024/11/23 23:11:56 [emerg] 3533#0: unknown directive "x" in /home/cis620/p2887869/project2/nginx.conf:3
+2024/11/23 23:12:09 [emerg] 3536#0: unknown directive "x" in /home/cis620/p2887869/project2/nginx.conf:3
+2024/11/23 23:12:25 [emerg] 3540#0: unexpected end of file, expecting "}" in /home/cis620/p2887869/project2/nginx.conf:129
+2024/11/23 23:12:31 [emerg] 3543#0: unexpected end of file, expecting "}" in /home/cis620/p2887869/project2/nginx.conf:129
+2024/11/23 23:12:58 [emerg] 3548#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 23:12:58 [emerg] 3548#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 23:12:58 [emerg] 3548#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 23:12:58 [emerg] 3548#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 23:12:58 [emerg] 3548#0: bind() to 0.0.0.0:1403 failed (98: Address already in use)
+2024/11/23 23:12:58 [emerg] 3548#0: still could not bind()
+2024/11/23 23:13:06 [notice] 3551#0: signal process started
+2024/11/23 23:13:17 [error] 3403#0: *5 open() "/home/cis620/p2887869/local/nginx/html/html-custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /html-custom HTTP/1.1", host: "localhost"
+2024/11/23 23:13:30 [error] 3403#0: *5 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 23:18:03 [notice] 3561#0: signal process started
+2024/11/23 23:18:12 [error] 3403#0: *7 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 23:18:12 [error] 3403#0: *7 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /custom HTTP/1.1", host: "localhost"
+2024/11/23 23:19:39 [error] 3562#0: *1 open() "/home/cis620/p2887869/local/nginx/html/custom" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 23:19:39 [error] 3562#0: *1 open() "/home/cis620/p2887869/local/nginx/html/custom.html" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /custom HTTP/1.1", host: "localhost:1403"
+2024/11/23 23:19:55 [notice] 3569#0: signal process started
+2024/11/23 23:22:13 [emerg] 3577#0: "location" directive is not allowed here in /home/cis620/p2887869/project2/nginx.conf:55
+2024/11/23 23:23:10 [notice] 3581#0: signal process started
+2024/11/23 23:23:10 [error] 3581#0: open() "/var/run/nginx.pid" failed (2: No such file or directory)
+2024/11/23 23:25:41 [notice] 3589#0: signal process started
+2024/11/23 23:26:29 [notice] 3598#0: signal process started
+2024/11/23 23:27:11 [notice] 3622#0: signal process started
+2024/11/23 23:27:11 [error] 3622#0: open() "/var/run/nginx.pid" failed (2: No such file or directory)
+2024/11/23 23:27:15 [notice] 3630#0: signal process started
+2024/12/02 22:24:21 [notice] 109#0: signal process started
+2024/12/03 19:30:54 [notice] 128#0: signal process started

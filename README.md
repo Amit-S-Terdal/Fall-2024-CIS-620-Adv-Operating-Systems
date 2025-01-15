@@ -1,1 +1,18 @@
 # Fall-2024-CIS-620-Adv-Operating-Systems-
+
+![Screenshot (186)](https://github.com/user-attachments/assets/53f12d98-9736-482e-8f2b-3b0b54567422)
+![Screenshot (120)](https://github.com/user-attachments/assets/6ba5ff32-9a14-4d51-afee-cfb6e94d9dfb)
+![Screenshot (170)](https://github.com/user-attachments/assets/32d898a1-8777-4fc3-ad08-63aa7471cf49)
+![Screenshot (171)](https://github.com/user-attachments/assets/8a8f51f2-c5f9-4b52-90e5-8987fdf8c8da)
+![Screenshot (182)](https://github.com/user-attachments/assets/30b099c6-f3b1-4f06-9d8a-78fd70255431)
+![Screenshot (183)](https://github.com/user-attachments/assets/94be7a9c-5c0d-4576-b8f4-3ff0d227d3de)
+![Screenshot (184)](https://github.com/user-attachments/assets/1f668bdf-8e4a-4ff6-a08b-f2f28d69e406)
+![Screenshot (185)](https://github.com/user-attachments/assets/c10f404a-f01f-44df-ba5d-2522426ce994)
+![Screenshot (119)](https://github.com/user-attachments/assets/2e77fee7-4330-482a-8bb2-d9bf523cc330)
+![Screenshot 2024-11-27 020928](https://github.com/user-attachments/assets/4dad0825-8d5c-4228-8993-565cab8c2dfc)
+![Screenshot 2024-11-24 045509](https://github.com/user-attachments/assets/0fa45734-0d3c-442e-a788-6eef788e1d96)
+![Screenshot 2024-11-19 192337](https://github.com/user-attachments/assets/1e067e57-2f52-4991-8ee0-dbb39df33049)
+![Screenshot 2024-11-22 020109](https://github.com/user-attachments/assets/afb005b4-2ea2-4db4-8567-57242c51522d)
+![Screenshot 2024-11-22 112721](https://github.com/user-attachments/assets/1a08ff45-9e21-4c90-8b2b-f4752b4df601)
+![Screenshot 2024-11-22 113559](https://github.com/user-attachments/assets/545326fb-5aaa-49d7-8df2-399b4af71ded)
+![Screenshot 2024-11-19 192024](https://github.com/user-attachments/assets/b0bbdd51-c703-489b-869b-f9849ddbf4b5)
